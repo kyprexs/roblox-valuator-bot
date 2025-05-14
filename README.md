@@ -61,14 +61,31 @@ The bot will automatically set up everything it needs.
 In your Discord server, type:
 
 ## Commands
+
 - `!value <username>` - Get the value of a Roblox account
 
+---
+
+## Screenshots
+
+Below are some screenshots of the bot in action:
+
+![Bot Example 1](screenshots/example1.png)
+![Bot Example 2](screenshots/example2.png)
+
+---
+
 ## Note
+
 This bot uses the Roblox API to fetch account information and calculates estimated values based on various factors including:
+
 - Limited items
 - Robux balance
 - Account age
 - Premium status
 
+---
+
 ## License
+
 MIT License 
